@@ -238,7 +238,7 @@ header ul.nav li ul li ul {
 .navbar-default .navbar-nav>.active>a:hover,
 .navbar-default .navbar-nav>.active>a:focus {
     color: #FFFFFF;
-    background: #5DA5E4;
+    background: #484848;
 }
 .navbar-default .navbar-nav>li>a:hover,
 .navbar-default .navbar-nav>li>a:focus {
@@ -307,7 +307,7 @@ select.selectmenu {
     bottom: 21%;
 }
 .flex-caption h3 {
-    color: #3BA0F4;
+    color: #84ff79;
     letter-spacing: 1px;
     margin-bottom: 8px;
     text-transform: uppercase;
@@ -351,8 +351,8 @@ select.selectmenu {
     display: inline-table;
     border: 1px solid #E5E5E5;
     background: transparent;
-    color: #3BA0F4;
-    border-bottom: 4px solid #3BA0F4;
+    color: #484848;
+    border-bottom: 4px solid #484848;
     font-style: normal !important;
 }
 .skill-home h2 {
@@ -428,7 +428,7 @@ img.img-center {
     font-style: italic;
 }
 section.hero-text {
-    background: #3BA0F4;
+    background: #484848;
     padding: 50px 0 50px 0;
     color: #fff;
 }
@@ -909,7 +909,7 @@ blockquote cite a:visited {
 
 .btn {
     text-align: center;
-    background: #1891EC;
+    background: #6e6e6e;
     color: #fff;
 }
 .btn-theme {
@@ -1257,7 +1257,7 @@ ul.social-network li {
     text-align: center;
     height: 32px;
     vertical-align: baseline;
-    border-bottom: 2px solid #3BA0F4;
+    border-bottom: 2px solid #484848;
 }
 #sub-footer {
     text-shadow: none;
@@ -1590,7 +1590,7 @@ article .align-right {
     height: 10px;
     margin: 1px;
     text-indent: -999px;
-    border: 1px solid #3BA0F4;
+    border: 1px solid #484848;
     border-radius: 10px;
     cursor: pointer;
     background-color: #000 \9;
@@ -1600,7 +1600,7 @@ article .align-right {
     margin: 0;
     width: 12px;
     height: 12px;
-    background-color: #3BA0F4;
+    background-color: #484848;
 }
 
  
